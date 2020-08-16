@@ -1,4 +1,4 @@
-### Hi there 👋
+I'm just a kid in secondary school learning to code.
 
 <!--
 **Tahini245/Tahini245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
