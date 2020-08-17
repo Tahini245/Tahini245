@@ -1,4 +1,4 @@
-I'm just a kid in secondary school learning to code.
+Hi there! I'm new to Github, and I'm not sure if I really need to use it. I don't actually understand how it works either.
 
 <!--
 **Tahini245/Tahini245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
