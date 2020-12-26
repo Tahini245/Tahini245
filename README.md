@@ -1,2 +1,2 @@
 # Hi there!
-I'm new to Github.
+I'm not really using GitHub for anything specific at the moment
